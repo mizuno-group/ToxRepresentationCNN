@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyTorch model files
+.pth
+
+# output directory
+outputs/
+temp/
+
+# private in file
+data/priv/
+
+# private ipynb
+ipynb/_*

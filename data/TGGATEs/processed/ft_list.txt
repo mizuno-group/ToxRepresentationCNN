@@ -1,0 +1,65 @@
+Phagocytosis
+Cellular infiltration
+Inflammation, suppurative
+Proliferation, oval cell
+Hyperplasia
+Degeneration, granular
+Necrosis
+Cellular infiltration, mononuclear cell
+Ground glass appearance
+Inflammation, foreign body
+Altered hepatocellular foci
+Deposit, lipid
+Scar
+Bacterium
+Accumulation, foam cell
+Disarrangement
+Cellular foci
+Cyst
+Atypia, nuclear
+Increased mitosis
+Granuloma
+Degeneration, acidophilic, eosinophilic
+Deposit, glycogen
+Deposit, pigment
+Necrosis, fibrinoid
+Edema
+Degeneration, vacuolar
+Pyknosis
+Hemorrhage
+Alteration, cytoplasmic
+Inclusion body, intracytoplasmic
+Change, eosinophilic
+Vacuolization, cytoplasmic
+DEAD
+Thrombus
+Hypertrophy
+Proliferation, Kupffer cell
+Inflammation
+Swelling
+Single cell necrosis
+Alteration, nuclear
+Ectopic tissue
+Giant cell
+Vacuolization, nuclear
+Congestion
+Degeneration, fatty
+Cellular infiltration, neutrophil
+Degeneration, hydropic
+Proliferation, bile duct
+Adenoma, hepatocellular
+Atrophy
+Mineralization
+Fibrosis
+Hematopoiesis, extramedullary
+Degeneration, granular, eosinophilic
+Degeneration
+Change, acidophilic
+Dilatation
+Anisonucleosis
+Nodule, hepatodiaphragmatic
+Deposit, hemosiderin
+Change, basophilic
+Lesion,NOS
+Proliferation
+Microgranuloma
