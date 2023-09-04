@@ -1,0 +1,212 @@
+COMPOUND_NAME	VEHICLE	Administration route	ORGAN	Single dose Low (mg/kg)	Single dose Middle (mg/kg)	Single dose High (mg/kg)	Repeat dose Low (mg/kg)	Repeat dose Middle (mg/kg)	Repeat dose High (mg/kg)
+acetaminophen	0.5% MC	Gavage	Liver	300	600	1000	300	600	1000
+acetaminophen	0.5% MC	Gavage	Kidney	300	600	1000	300	600	1000
+isoniazid	0.5% MC	Gavage	Liver	200	600	2000	50	100	200
+carbon tetrachloride	corn oil	Gavage	Liver	30	100	300	30	100	300
+phenobarbital	0.5% MC	Gavage	Liver	100	150	300	10	30	100
+valproic acid	0.5% MC	Gavage	Liver	45	150	450	45	150	450
+valproic acid	0.5% MC	Gavage	Kidney	45	150	450	45	150	450
+clofibrate	corn oil	Gavage	Liver	30	100	300	30	100	300
+clofibrate	corn oil	Gavage	Kidney	30	100	300	30	100	300
+rifampicin	0.5% MC	Gavage	Liver	20	60	200	20	60	200
+rifampicin	0.5% MC	Gavage	Kidney	20	60	200	20	60	200
+naphthyl isothiocyanate	corn oil	Gavage	Liver	15	50	150	1.5	5	15
+allyl alcohol	corn oil	Gavage	Liver	3	10	30	3	10	30
+allyl alcohol	corn oil	Gavage	Kidney	3	10	30	3	10	30
+phenylbutazone	0.5% MC	Gavage	Liver	20	60	200	20	60	200
+phenylbutazone	0.5% MC	Gavage	Kidney	20	60	200	20	60	200
+omeprazole	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+omeprazole	0.5% MC	Gavage	Kidney	100	300	1000	100	300	1000
+ethionine	0.5% MC	Gavage	Liver	25	80	250	25	80	250
+ethionine	0.5% MC	Gavage	Kidney	25	80	250	25	80	250
+aspirin	0.5% MC	Gavage	Liver	450	1000	2000	45	150	450
+indomethacin	0.5% MC	Gavage	Liver	5	15	50	0.5	1.6	5
+indomethacin	0.5% MC	Gavage	Kidney	0.5	1.6	5	0.5	1.6	5
+chlorpromazine	0.5% MC	Gavage	Liver	45	150	NoData	4.5	15	45
+thioacetamide	0.5% MC	Gavage	Liver	4.5	15	45	4.5	15	45
+thioacetamide	0.5% MC	Gavage	Kidney	4.5	15	45	4.5	15	45
+carbamazepine	0.5% MC	Gavage	Liver	30	100	300	30	100	300
+diclofenac	0.5% MC	Gavage	Liver	10	30	100	1	3	10
+nitrofurantoin	0.5% MC	Gavage	Liver	100	300	600	10	30	100
+nitrofurantoin	0.5% MC	Gavage	Kidney	10	30	100	10	30	100
+benzbromarone	0.5% MC	Gavage	Liver	20	60	200	20	60	200
+hexachlorobenzene	corn oil	Gavage	Liver	300	1000	2000	30	100	300
+hexachlorobenzene	corn oil	Gavage	Kidney	300	1000	2000	30	100	300
+diazepam	0.5% MC	Gavage	Liver	25	75	250	25	75	250
+cyclophosphamide	0.5% MC	Gavage	Liver	15	50	150	1.5	5	15
+cyclophosphamide	0.5% MC	Gavage	Kidney	1.5	5	15	1.5	5	15
+methapyrilene	0.5% MC	Gavage	Liver	10	30	100	10	30	100
+phenytoin	0.5% MC	Gavage	Liver	600	1200	2000	60	200	600
+coumarin	corn oil	Gavage	Liver	15	50	150	15	50	150
+allopurinol	0.5% MC	Gavage	Liver	15	50	150	15	50	150
+allopurinol	0.5% MC	Gavage	Kidney	15	50	150	15	50	150
+propylthiouracil	0.5% MC	Gavage	Liver	10	30	100	10	30	100
+WY-14643	corn oil	Gavage	Liver	10	30	100	10	30	100
+gemfibrozil	corn oil	Gavage	Liver	30	100	300	30	100	300
+bromobenzene	corn oil	Gavage	Liver	30	100	300	30	100	300
+bromobenzene	corn oil	Gavage	Kidney	30	100	300	30	100	300
+amiodarone	0.5% MC	Gavage	Liver	200	600	2000	20	60	200
+sulfasalazine	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+cimetidine	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+haloperidol	0.5% MC	Gavage	Liver	3	10	30	3	10	30
+fluphenazine	0.5% MC	Gavage	Liver	2	6	20	2	6	20
+thioridazine	0.5% MC	Gavage	Liver	10	30	100	10	30	100
+adapin	0.5% MC	Gavage	Liver	100	300	NoData	10	30	100
+labetalol	0.5% MC	Gavage	Liver	45	150	450	45	150	450
+methyltestosterone	0.5% MC	Gavage	Liver	30	100	300	30	100	300
+methyltestosterone	0.5% MC	Gavage	Kidney	30	100	300	30	100	300
+glibenclamide	corn oil	Gavage	Liver	100	300	1000	100	300	1000
+griseofulvin	corn oil	Gavage	Liver	100	300	1000	100	300	1000
+flutamide	corn oil	Gavage	Liver	15	50	150	15	50	150
+perhexiline	0.5% MC	Gavage	Liver	15	50	150	15	50	150
+azathioprine	0.5% MC	Gavage	Liver	3	10	30	3	10	30
+ketoconazole	0.5% MC	Gavage	Liver	10	30	100	10	30	100
+ketoconazole	0.5% MC	Gavage	Kidney	10	30	100	10	30	100
+tetracycline	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+lomustine	0.5% MC	Gavage	Liver	0.6	2	6	0.6	2	6
+lomustine	0.5% MC	Gavage	Kidney	0.6	2	6	0.6	2	6
+ciprofloxacin	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+ciprofloxacin	0.5% MC	Gavage	Kidney	100	300	1000	100	300	1000
+pemoline	0.5% MC	Gavage	Liver	7.5	25	75	7.5	25	75
+chlormezanone	corn oil	Gavage	Liver	50	150	500	50	150	500
+metformin	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+tamoxifen	corn oil	Gavage	Liver	6	20	60	6	20	60
+ethinylestradiol	corn oil	Gavage	Liver	1	3	10	1	3	10
+ethinylestradiol	corn oil	Gavage	Kidney	1	3	10	1	3	10
+methyldopa	corn oil	Gavage	Liver	60	200	600	60	200	600
+methimazole	0.5% MC	Gavage	Liver	10	30	100	10	30	100
+monocrotaline	0.5% MC	Gavage	Liver	3	10	30	3	10	30
+monocrotaline	0.5% MC	Gavage	Kidney	3	10	30	3	10	30
+vitamin A	corn oil	Gavage	Liver	10	30	100	10	30	100
+tacrine	0.5% MC	Gavage	Liver	3	10	30	3	10	30
+moxisylyte	0.5% MC	Gavage	Liver	50	150	500	50	150	500
+iproniazid	0.5% MC	Gavage	Liver	6	20	60	6	20	60
+chloramphenicol	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+nitrofurazone	0.5% MC	Gavage	Liver	30	100	300	10	30	100
+imipramine	0.5% MC	Gavage	Liver	10	30	100	10	30	100
+imipramine	0.5% MC	Gavage	Kidney	10	30	100	10	30	100
+amitriptyline	0.5% MC	Gavage	Liver	15	50	150	15	50	150
+hydroxyzine	0.5% MC	Gavage	Liver	10	30	100	10	30	100
+ibuprofen	0.5% MC	Gavage	Liver	60	200	400	20	60	200
+naproxen	0.5% MC	Gavage	Liver	20	60	200	6	20	60
+quinidine	0.5% MC	Gavage	Liver	20	60	200	20	60	200
+furosemide	0.5% MC	Gavage	Liver	30	100	300	30	100	300
+fenofibrate	0.5% MC	Gavage	Liver	10	100	1000	10	100	1000
+chlorpropamide	0.5% MC	Gavage	Liver	30	100	300	30	100	300
+nicotinic acid	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+erythromycin ethylsuccinate	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+erythromycin ethylsuccinate	0.5% MC	Gavage	Kidney	100	300	1000	100	300	1000
+ethambutol	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+mefenamic acid	0.5% MC	Gavage	Liver	30	100	300	30	100	300
+famotidine	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+ranitidine	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+chlorpheniramine	0.5% MC	Gavage	Liver	3	10	30	3	10	30
+nifedipine	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+diltiazem	0.5% MC	Gavage	Liver	80	240	800	80	240	800
+tannic acid	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+captopril	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+captopril	0.5% MC	Gavage	Kidney	100	300	1000	100	300	1000
+enalapril	0.5% MC	Gavage	Liver	60	200	600	60	200	600
+enalapril	0.5% MC	Gavage	Kidney	60	200	600	60	200	600
+theophylline	0.5% MC	Gavage	Liver	20	60	200	20	60	200
+caffeine	0.5% MC	Gavage	Liver	10	30	100	10	30	100
+caffeine	0.5% MC	Gavage	Kidney	10	30	100	10	30	100
+papaverine	0.5% MC	Gavage	Liver	40	120	400	40	120	400
+penicillamine	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+sulindac	0.5% MC	Gavage	Liver	15	50	150	5	15	50
+triamterene	0.5% MC	Gavage	Liver	15	50	150	15	50	150
+triamterene	0.5% MC	Gavage	Kidney	15	50	150	15	50	150
+disopyramide	0.5% MC	Gavage	Liver	40	120	400	40	120	400
+mexiletine	0.5% MC	Gavage	Liver	40	120	400	40	120	400
+tiopronin	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+acetazolamide	0.5% MC	Gavage	Liver	60	200	600	60	200	600
+acetazolamide	0.5% MC	Gavage	Kidney	60	200	600	60	200	600
+disulfiram	0.5% MC	Gavage	Liver	60	200	600	60	200	600
+promethazine	0.5% MC	Gavage	Liver	20	60	200	20	60	200
+colchicine	0.5% MC	Gavage	Liver	1.5	5	15	0.5	1.5	5
+tolbutamide	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+sulpiride	0.5% MC	Gavage	Liver	300	1000	2000	100	300	1000
+acarbose	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+simvastatin	0.5% MC	Gavage	Liver	40	120	400	40	120	400
+ajmaline	0.5% MC	Gavage	Liver	30	100	300	30	100	300
+dantrolene	0.5% MC	Gavage	Liver	25	75	250	25	75	250
+triazolam	0.5% MC	Gavage	Liver	100	300	1000	100	300	1000
+clomipramine	0.5% MC	Gavage	Liver	10	30	100	10	30	100
+trimethadione	0.5% MC	Gavage	Liver	50	150	500	50	150	500
+terbinafine	0.5% MC	Gavage	Liver	75	250	750	75	250	750
+meloxicam	0.5% MC	Gavage	Liver	10	30	100	3	10	30
+lornoxicam	0.5% MC	Gavage	Liver	1	3	10	0.3	1	3
+chlormadinone	0.5% MC	Gavage	Liver	300	1000	2000	100	300	1000
+danazol	0.5% MC	Gavage	Liver	300	1000	2000	100	300	1000
+bendazac	0.5% MC	Gavage	Liver	100	300	1000	30	100	300
+benziodarone	0.5% MC	Gavage	Liver	30	100	300	30	100	300
+etoposide	0.5% MC	Gavage	Liver	10	100	1000	3	10	30
+cisplatin	saline	intravenous injection	Liver	0.3	1	3	0.1	0.3	1
+cisplatin	saline	intravenous injection	Kidney	0.3	1	3	0.1	0.3	1
+carboplatin	saline	intravenous injection	Liver	10	30	100	1	3	10
+carboplatin	saline	intravenous injection	Kidney	10	30	100	1	3	10
+bromoethylamine	saline	intravenous injection	Liver	6	20	60	2	6	20
+bromoethylamine	saline	intravenous injection	Kidney	6	20	60	2	6	20
+ethionamide	0.5% MC	Gavage	Liver	100	300	1000	30	100	300
+nimesulide	0.5% MC	Gavage	Liver	30	100	300	10	30	100
+ethanol	distilled water	Gavage	Liver	400	1200	4000	400	1200	4000
+phenacetin	0.5% MC	Gavage	Liver	300	1000	2000	100	300	1000
+phenacetin	0.5% MC	Gavage	Kidney	300	1000	2000	100	300	1000
+bucetin	0.5% MC	Gavage	Liver	300	1000	2000	100	300	1000
+bucetin	0.5% MC	Gavage	Kidney	300	1000	2000	100	300	1000
+phenylanthranilic acid	0.5% MC	Gavage	Liver	300	1000	2000	100	300	1000
+phenylanthranilic acid	0.5% MC	Gavage	Kidney	300	1000	2000	100	300	1000
+cephalothin	saline	intravenous injection	Liver	300	1000	2000	300	1000	2000
+cephalothin	saline	intravenous injection	Kidney	300	1000	2000	300	1000	2000
+cyclosporine A	corn oil	Gavage	Liver	30	100	300	10	30	100
+cyclosporine A	corn oil	Gavage	Kidney	30	100	300	10	30	100
+puromycin aminonucleoside	saline	intravenous injection	Liver	12	40	120	4	12	40
+puromycin aminonucleoside	saline	intravenous injection	Kidney	12	40	120	4	12	40
+acetamidofluorene	0.5% MC	Gavage	Liver	100	300	1000	30	100	300
+nitrosodiethylamine	0.5% MC	Gavage	Liver	10	30	100	3	10	30
+ticlopidine	0.5% MC	Gavage	Liver	100	300	1000	30	100	300
+gentamicin	saline	intravenous injection	Liver	10	30	100	10	30	100
+gentamicin	saline	intravenous injection	Kidney	10	30	100	10	30	100
+doxorubicin	saline	intravenous injection	Liver	1	3	10	0.1	0.3	1
+doxorubicin	saline	intravenous injection	Kidney	1	3	10	0.1	0.3	1
+rosiglitazone maleate	0.5% MC	Gavage	Liver	20	100	500	2	20	100
+rotenone	0.5% MC	Gavage	Liver	5	15	50	5	15	50
+dexamethasone	0.5% MC	Gavage	Liver	0.5	5	50	NoData	NoData	NoData
+"2,4-dinitrophenol"	0.5% MC	Gavage	Liver	6	20	60	6	20	60
+methylene dianiline	corn oil	Gavage	Liver	30	100	300	10	30	100
+butylated hydroxyanisole	corn oil	Gavage	Liver	300	1000	2000	300	1000	2000
+amphotericin B	"5% glucose sol., 1% DMSO, 0.001N HCl"	intravenous injection	Liver	0.6	2	4	0.1	0.3	1
+amphotericin B	"5% glucose sol., 1% DMSO, 0.001N HCl"	intravenous injection	Kidney	0.6	2	4	0.1	0.3	1
+fluoxetine hydrochloride	0.5% MC	Gavage	Liver	3	10	30	3	10	30
+desmopressin acetate	saline	subcutaneous injection	Liver	20	200	2000	2	20	200
+desmopressin acetate	saline	subcutaneous injection	Kidney	20	200	2000	2	20	200
+2-nitrofluorene	corn oil	Gavage	Liver	100	300	1000	NoData	NoData	NoData
+1% cholesterol + 0.25% sodium cholate	none	Diet	Liver	NoData	NoData	NoData	NoData	NoData	9999
+N-nitrosomorpholine	0.5% MC	Gavage	Liver	100	300	600	NoData	NoData	NoData
+N-methyl-N-nitrosourea	saline	intraperitoneal injection	Liver	10	30	100	NoData	NoData	NoData
+aflatoxin B1	0.5% MC	Gavage	Liver	1	3	10	NoData	NoData	NoData
+3-methylcholanthrene	corn oil	Gavage	Liver	10	30	100	NoData	NoData	NoData
+acetamide	0.5% MC	Gavage	Liver	NoData	NoData	NoData	300	1000	2000
+propranolol	0.5% MC	Gavage	Liver	15	50	150	15	50	150
+alpidem	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData
+venlafaxine	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData
+buspirone	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData
+clozapine	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData
+nefazodone	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData
+"interferon alpha, human"	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData
+"interleukin 1 beta, human"	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData
+"interleukin 6, human"	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData
+transforming growth factor beta 1	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData
+"hepatocyte growth factor, human"	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData	NoData
+bortezomib	saline	intravenous injection	Liver	0.1	0.3	0.6	NoData	NoData	NoData
+gefitinib	0.5% MC	Gavage	Liver	200	600	2000	NoData	NoData	NoData
+"imatinib, methanesulfonate salt"	0.5% MC	Gavage	Liver	60	200	600	NoData	NoData	NoData
+cycloheximide	saline	intravenous injection	Liver	1	3	10	NoData	NoData	NoData
+tunicamycin	saline	intraperitoneal injection	Liver	30	100	300	NoData	NoData	NoData
+phorone	corn oil	intraperitoneal injection	Liver	40	120	400	NoData	NoData	NoData
+buthionine sulfoximine	saline	intraperitoneal injection	Liver	150	450	1500	NoData	NoData	NoData
+diethyl maleate	corn oil	intraperitoneal injection	Liver	80	240	800	NoData	NoData	NoData
+galactosamine	saline	intraperitoneal injection	Liver	100	300	1000	NoData	NoData	NoData
+LPS	saline	intraperitoneal injection	Liver	10	300	3000	NoData	NoData	NoData
+TNFƒ¿	0.5% BSA saline	intraperitoneal injection	Liver	1	3	10	NoData	NoData	NoData
+phalloidin	saline	intraperitoneal injection	Liver	NoData	NoData	0.5	NoData	NoData	0.5

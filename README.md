@@ -1,11 +1,10 @@
 # ToxRepresentationCNN
-Investigation of CNN-based feature extraction for toxicopathological images.  
+Investigation of CNN-based feature extraction of toxicopathological images for understanding compound effects in vivo.  
 
 ## Publication
 - peer-reviewed publication  
     - Not yet  
-- preprint  
-    - Not yet  
+- [preprint](https://www.biorxiv.org/content/10.1101/2023.07.23.550191v1)  
 
 ## Citation
 Please cite the following if you use any contents of this repository.  
