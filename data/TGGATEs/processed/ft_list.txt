@@ -1,65 +1,65 @@
-Phagocytosis
-Cellular infiltration
-Inflammation, suppurative
-Proliferation, oval cell
-Hyperplasia
-Degeneration, granular
 Necrosis
-Cellular infiltration, mononuclear cell
-Ground glass appearance
-Inflammation, foreign body
-Altered hepatocellular foci
-Deposit, lipid
-Scar
-Bacterium
-Accumulation, foam cell
-Disarrangement
-Cellular foci
-Cyst
-Atypia, nuclear
-Increased mitosis
-Granuloma
-Degeneration, acidophilic, eosinophilic
-Deposit, glycogen
-Deposit, pigment
-Necrosis, fibrinoid
-Edema
-Degeneration, vacuolar
-Pyknosis
-Hemorrhage
-Alteration, cytoplasmic
-Inclusion body, intracytoplasmic
-Change, eosinophilic
-Vacuolization, cytoplasmic
-DEAD
-Thrombus
-Hypertrophy
-Proliferation, Kupffer cell
-Inflammation
-Swelling
-Single cell necrosis
-Alteration, nuclear
-Ectopic tissue
-Giant cell
-Vacuolization, nuclear
-Congestion
-Degeneration, fatty
-Cellular infiltration, neutrophil
-Degeneration, hydropic
-Proliferation, bile duct
-Adenoma, hepatocellular
-Atrophy
-Mineralization
-Fibrosis
-Hematopoiesis, extramedullary
-Degeneration, granular, eosinophilic
-Degeneration
-Change, acidophilic
-Dilatation
-Anisonucleosis
-Nodule, hepatodiaphragmatic
-Deposit, hemosiderin
-Change, basophilic
-Lesion,NOS
-Proliferation
 Microgranuloma
+Alteration, nuclear
+Nodule, hepatodiaphragmatic
+Degeneration, granular
+DEAD
+Proliferation, oval cell
+Vacuolization, nuclear
+Lesion,NOS
+Degeneration, hydropic
+Hemorrhage
+Thrombus
+Edema
+Altered hepatocellular foci
+Cellular infiltration, mononuclear cell
+Anisonucleosis
+Inclusion body, intracytoplasmic
+Increased mitosis
+Vacuolization, cytoplasmic
+Hyperplasia
+Ground glass appearance
+Cyst
+Accumulation, foam cell
+Scar
+Necrosis, fibrinoid
+Inflammation, suppurative
+Degeneration, granular, eosinophilic
+Proliferation
+Deposit, pigment
+Cellular infiltration, neutrophil
+Dilatation
+Hematopoiesis, extramedullary
+Phagocytosis
+Deposit, lipid
+Congestion
+Inflammation, foreign body
+Ectopic tissue
+Inflammation
+Deposit, hemosiderin
+Hypertrophy
+Degeneration
+Deposit, glycogen
+Cellular foci
+Swelling
+Change, acidophilic
+Change, eosinophilic
+Pyknosis
+Proliferation, Kupffer cell
+Degeneration, vacuolar
+Alteration, cytoplasmic
+Atypia, nuclear
+Degeneration, fatty
+Disarrangement
+Single cell necrosis
+Mineralization
+Giant cell
+Adenoma, hepatocellular
+Change, basophilic
+Granuloma
+Atrophy
+Degeneration, acidophilic, eosinophilic
+Fibrosis
+Cellular infiltration
+Bacterium
+Proliferation, bile duct

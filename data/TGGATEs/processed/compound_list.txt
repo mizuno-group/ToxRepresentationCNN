@@ -1,167 +1,167 @@
-adapin
-tunicamycin
-diethyl maleate
-sulpiride
-iproniazid
-gentamicin
-acetazolamide
-allopurinol
-buthionine sulfoximine
-ticlopidine
-ethionine
-chloramphenicol
-disulfiram
-corn oil
-lornoxicam
-2,4-dinitrophenol
-acarbose
-erythromycin ethylsuccinate
-chlorpromazine
-cephalothin
-simvastatin
-saline
-none
-cyclophosphamide
-amiodarone
-bucetin
-aspirin
-vitamin A
-chlorpropamide
-hydroxyzine
-perhexiline
-butylated hydroxyanisole
-bromoethylamine
-famotidine
-tiopronin
-coumarin
-galactosamine
-propranolol
-nitrofurazone
-meloxicam
-rotenone
-chlormezanone
-clomipramine
-methimazole
-promethazine
-naproxen
-acetamide
-cimetidine
-tolbutamide
-amitriptyline
-moxisylyte
-monocrotaline
-puromycin aminonucleoside
-clofibrate
-fluphenazine
-benzbromarone
-acetaminophen
-phenytoin
-captopril
-azathioprine
-ethambutol
-carbamazepine
-nicotinic acid
-cyclosporine A
-acetamidofluorene
-enalapril
-gemfibrozil
-glibenclamide
-fenofibrate
 nitrosodiethylamine
-gefitinib
-colchicine
-methylene dianiline
-benziodarone
-labetalol
 pemoline
-LPS
-imatinib, methanesulfonate salt
-nimesulide
-1% cholesterol + 0.25% sodium cholate
-ketoconazole
-WY-14643
-terbinafine
-2-nitrofluorene
-methapyrilene
-caffeine
-naphthyl isothiocyanate
-desmopressin acetate
-methyldopa
-doxorubicin
-methyltestosterone
-papaverine
-propylthiouracil
-imipramine
-rifampicin
-amphotericin B
-tamoxifen
-nifedipine
-haloperidol
-phenylanthranilic acid
-flutamide
-ethionamide
-cycloheximide
-triazolam
-distilled water
-thioacetamide
-thioridazine
-N-nitrosomorpholine
-mefenamic acid
-diltiazem
-bendazac
-bortezomib
-N-methyl-N-nitrosourea
-aflatoxin B1
-ciprofloxacin
-fluoxetine hydrochloride
-nitrofurantoin
-diclofenac
-cisplatin
-quinidine
-sulfasalazine
-bromobenzene
-phalloidin
-sulindac
-danazol
-allyl alcohol
-omeprazole
 phenacetin
-5% glucose sol., 1% DMSO, 0.001N HCl
-3-methylcholanthrene
+methyltestosterone
+ciprofloxacin
+WY-14643
+triazolam
+gemfibrozil
+hydroxyzine
+2,4-dinitrophenol
+propranolol
+corn oil
+imipramine
 ranitidine
-theophylline
-rosiglitazone maleate
-triamterene
-dantrolene
-ethanol
-phenobarbital
-ethinylestradiol
-tetracycline
-lomustine
-0.5% MC
-tacrine
-dexamethasone
-carbon tetrachloride
-furosemide
-TNFα
+1% cholesterol + 0.25% sodium cholate
+2-nitrofluorene
+ajmaline
+nicotinic acid
+butylated hydroxyanisole
+propylthiouracil
+flutamide
+colchicine
+acetamidofluorene
+clomipramine
+diazepam
+sulindac
+tolbutamide
+cimetidine
+aspirin
+moxisylyte
+benzbromarone
+phalloidin
+desmopressin acetate
 tannic acid
-indomethacin
-isoniazid
+acetazolamide
+caffeine
+naproxen
+ethionine
+diclofenac
+dexamethasone
+carbamazepine
+ethambutol
 ibuprofen
-metformin
-penicillamine
+bromoethylamine
+methylene dianiline
+5% glucose sol., 1% DMSO, 0.001N HCl
+coumarin
+bromobenzene
+sulfasalazine
 carboplatin
-phenylbutazone
-griseofulvin
+amitriptyline
+imatinib, methanesulfonate salt
+nitrofurantoin
+chlormezanone
+phenobarbital
 0.5% BSA saline
+meloxicam
+griseofulvin
+ketoconazole
+chlorpromazine
+methimazole
+phenylbutazone
+haloperidol
+rifampicin
+fluphenazine
+dantrolene
+tiopronin
+diltiazem
+acetamide
+nifedipine
+triamterene
+simvastatin
+carbon tetrachloride
+clofibrate
+methapyrilene
+acarbose
+disopyramide
+buthionine sulfoximine
+erythromycin ethylsuccinate
+mexiletine
+iproniazid
+methyldopa
+benziodarone
+lomustine
+N-nitrosomorpholine
+tunicamycin
+phenytoin
+monocrotaline
+0.5% MC
+cephalothin
+cyclophosphamide
+perhexiline
+hexachlorobenzene
+etoposide
+thioacetamide
+terbinafine
+omeprazole
+promethazine
+none
+penicillamine
 trimethadione
 valproic acid
-mexiletine
-disopyramide
-phorone
-etoposide
-ajmaline
-chlorpheniramine
+allyl alcohol
+nimesulide
+fluoxetine hydrochloride
+gefitinib
+amiodarone
+bortezomib
+captopril
+N-methyl-N-nitrosourea
+sulpiride
+disulfiram
+tamoxifen
+famotidine
+azathioprine
+diethyl maleate
+distilled water
+TNFα
+phenylanthranilic acid
+naphthyl isothiocyanate
+rotenone
+tacrine
+fenofibrate
+cyclosporine A
+isoniazid
+lornoxicam
+bendazac
+tetracycline
+adapin
+furosemide
+thioridazine
+3-methylcholanthrene
 chlormadinone
-hexachlorobenzene
-diazepam
+bucetin
+puromycin aminonucleoside
+quinidine
+danazol
+phorone
+aflatoxin B1
+vitamin A
+cisplatin
+gentamicin
+allopurinol
+mefenamic acid
+papaverine
+theophylline
+ethinylestradiol
+metformin
+galactosamine
+chlorpropamide
+ethionamide
+rosiglitazone maleate
+indomethacin
+doxorubicin
+labetalol
+ticlopidine
+amphotericin B
+glibenclamide
+nitrofurazone
+cycloheximide
+chlorpheniramine
+enalapril
+ethanol
+acetaminophen
+saline
+LPS
+chloramphenicol

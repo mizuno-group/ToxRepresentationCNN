@@ -139,4 +139,7 @@ temp/
 data/priv/
 
 # private ipynb
-ipynb/_*
+_ipynb/
+
+# vscode
+.vscode/

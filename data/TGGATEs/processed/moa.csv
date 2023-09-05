@@ -1,31 +1,31 @@
-,Bacterial 70S ribosome inhibitor,Serotonin 2a (5-HT2a) receptor antagonist,DNA inhibitor,Cyclooxygenase inhibitor,"Sulfonylurea receptor 1, Kir6.2 blocker",Histamine H2 receptor antagonist,Peroxisome proliferator-activated receptor alpha agonist
-erythromycin ethylsuccinate,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-acetaminophen,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-chlorpromazine,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-ranitidine,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-azathioprine,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-haloperidol,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-carboplatin,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-phenylbutazone,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-cyclophosphamide,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-naproxen,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-thioridazine,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-mefenamic acid,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-clofibrate,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-aspirin,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-sulfasalazine,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-tetracycline,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-chlorpropamide,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-cimetidine,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-lomustine,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-tolbutamide,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-glibenclamide,0.0,0.0,0.0,0.0,1.0,0.0,0.0
-gemfibrozil,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-fenofibrate,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-nitrofurantoin,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-famotidine,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-diclofenac,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-chloramphenicol,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-indomethacin,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-nitrofurazone,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-sulindac,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+,Peroxisome proliferator-activated receptor alpha agonist,Histamine H2 receptor antagonist,Cyclooxygenase inhibitor,"Sulfonylurea receptor 1, Kir6.2 blocker",DNA inhibitor,Serotonin 2a (5-HT2a) receptor antagonist,Bacterial 70S ribosome inhibitor
+fenofibrate,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+diclofenac,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+lomustine,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+chlorpromazine,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+phenylbutazone,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+sulindac,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+haloperidol,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+tetracycline,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+cyclophosphamide,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+tolbutamide,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+chlorpropamide,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+cimetidine,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+gemfibrozil,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+indomethacin,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+thioridazine,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+famotidine,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+azathioprine,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+aspirin,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+glibenclamide,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+ranitidine,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+nitrofurazone,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+erythromycin ethylsuccinate,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+sulfasalazine,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+carboplatin,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+clofibrate,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+nitrofurantoin,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+acetaminophen,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+naproxen,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+mefenamic acid,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+chloramphenicol,0.0,0.0,0.0,0.0,0.0,0.0,1.0

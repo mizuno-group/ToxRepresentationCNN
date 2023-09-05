@@ -2,13 +2,13 @@ from distutils.core import setup
 
 
 setup(
-    name="clmodel",
+    name="toxreprcnn",
     version="0.1.0",
     description="",
     author="ShotaroMaedera",
-    packages=["clmodel"],
+    packages=["toxreprcnn"],
     package_dir={
-        "clmodel": "clmodel",
+        "toxreprcnn": "toxreprcnn",
     },
     # package_data={
     #     "my_package": [                                                                                                                                      
